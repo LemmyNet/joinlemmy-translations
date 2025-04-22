@@ -77,7 +77,7 @@
   "contact": "Contact",
   "contact_us": "Contact <1>Us</1>",
   "donate_subtitle": "Support Lemmy development",
-  "donate_desc": "We provide Lemmy as free and open source platform without any tracking or advertising, and work every day to improve it. Yet we also need money to pay our bills and provide for our families. Only 2% of Lemmy users donate, so we need your donation to keep this model working. Thank you for helping to create a new form of social media.<br/><br/>Nutomic and Dessalines, Lemmy Developers",
+  "donate_desc": "Lemmy is a new type of social media which is focused on human connections instead of increasing shareholder value. It has no tracking or advertising and is billionaire proof. Yet it requires constant full-time work to manage the project, implement new features and fix bugs. Unlike Reddit there is no venture capital available. Instead we rely on your generous donations to make a living. Please use the links below to donate and help Lemmy grow!<br/><br/>Nutomic and Dessalines, Lemmy Developers",
   "support_on_liberapay": "Liberapay",
   "support_on_patreon": "Patreon",
   "support_on_opencollective": "OpenCollective",
