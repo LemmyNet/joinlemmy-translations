@@ -113,5 +113,4 @@
     "support_with_crypto": "Criptomonedes",
     "support_on_ko_fi": "Ko-fi",
     "percent_funded": "{{formattedCount}}% finançat",
-    "donate_desc": "Lemmy és un nou tipus de xarxa social centrada en les connexions humanes en lloc d'augmentar el valor per als accionistes. No té seguiment ni publicitat i és a prova de multimilionaris. Tot i això, requereix treball constant a temps complet per gestionar el projecte, implementar noves funcions i corregir errors. A diferència de Reddit, no hi ha capital de risc disponible. En canvi, confiem en les vostres generoses donacions per guanyar-nos la vida. Si us plau, utilitzeu els enllaços següents per fer una donació i ajudar a créixer Lemmy!<br/><br/>Nutomic i Dessalines, desenvolupadors de Lemmy"
 }

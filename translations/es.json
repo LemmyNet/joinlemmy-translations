@@ -128,7 +128,6 @@
     "support_on_patreon": "Patreon",
     "support_on_ko_fi": "Ko-fi",
     "percent_funded": "{{formattedCount}} % financiado",
-    "donate_desc": "Lemmy es un nuevo tipo de red social que se centra en las conexiones humanas en vez de en aumentar el valor para los accionistas. No tiene elementos de rastreo o anuncios y no depende de multimillonarios. Sin embargo, es necesario trabajar a tiempo completo para gestionar el proyecto, implementar nuevas funcionalidades y arreglar errores. A diferencia de Reddit, no hay capital de riesgo. En su lugar dependemos de vuestras generosas donaciones para ganarnos la vida. Por favor, usad los siguientes enlaces para donar y ¡hacer que Lemmy crezca!<br/><br/>Nutomic y Dessalines, desarrolladores de Lemmy",
     "support_on_liberapay": "Liberapay",
     "donate_subtitle": "Apoya el desarrollo de Lemmy",
     "support_with_crypto": "Cripto"
