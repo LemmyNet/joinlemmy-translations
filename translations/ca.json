@@ -112,5 +112,5 @@
     "donate_subtitle": "Donar suport al desenvolupament de Lemmy",
     "support_with_crypto": "Criptomonedes",
     "support_on_ko_fi": "Ko-fi",
-    "percent_funded": "{{formattedCount}}% finançat",
+    "percent_funded": "{{formattedCount}}% finançat"
 }
