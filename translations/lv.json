@@ -9,5 +9,7 @@
     "registrations_closed": "Konta izveide slēgta",
     "registrations_open": "Konta izveide atvērta",
     "see_all_servers": "Rādīt visus serverus",
-    "open_source_desc": "Lemmy ir un vienmēr būs brīva, <1>atvērtā pirmkoda</1> programmatūra, kas izmanto stingru <2>kopēttiesības</2> <3>AGPL licenci</3>."
+    "open_source_desc": "Lemmy ir un vienmēr būs brīva, <1>atvērtā pirmkoda</1> programmatūra, kas izmanto stingru <2>kopēttiesības</2> <3>AGPL licenci</3>.",
+    "user_tagging": "Lietotāja pieminēšana ar <1>@</1> un kopienas pieminēšana ar <2>!</2> rakstzīmi.",
+    "notifications_including": "Paziņojumi, arī pa e-pastu."
 }
