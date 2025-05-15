@@ -1,1 +1,13 @@
-{}
+{
+    "lemmy": "Lemmy",
+    "open_source": "Atvērtā pirmkoda programmatūra",
+    "blazing_fast_desc": "Izstrādāts, izmantojot dažus no visātrākajiem ietvariem un rīkiem, tostarp <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4> un <5>Typescript</5>.",
+    "avatar_support": "Profila attēlu atbalsts.",
+    "servers": "Serveri",
+    "requires_application": "Nepieciešams konta izveides pieteikums",
+    "closed_source_warning": "Brīdinājums: šī ir slēgta pirmkoda lietotne, kas var apkopot jūsu datus. Lietojiet uz savu atbildību un risku.",
+    "registrations_closed": "Konta izveide slēgta",
+    "registrations_open": "Konta izveide atvērta",
+    "see_all_servers": "Rādīt visus serverus",
+    "open_source_desc": "Lemmy ir un vienmēr būs brīva, <1>atvērtā pirmkoda</1> programmatūra, kas izmanto stingru <2>kopēttiesības</2> <3>AGPL licenci</3>."
+}
