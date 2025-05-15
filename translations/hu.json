@@ -114,5 +114,7 @@
     "news": "Hírek",
     "releases": "Lemmy kiadások",
     "add_weblate": "Besegíthet a lokalizációba <1>weblate</1>-n keresztül.",
-    "total_users": "{{formattedCount}} eddigi felhasználó"
+    "total_users": "{{formattedCount}} eddigi felhasználó",
+    "preferred": "Preferált",
+    "desktop": "Asztali"
 }
