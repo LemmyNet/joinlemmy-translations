@@ -71,7 +71,7 @@
     "instance_browser": "Dopo aver creato un account, puoi trovare delle comunità in tutti i server utilizzando",
     "releases": "Rilasci di Lemmy",
     "read_more": "Leggi di più",
-    "see_all_servers": "Sfoglia Tutti i Server",
+    "see_all_servers": "Vedi Tutti i Server",
     "none_found": "Non è stato trovato nulla.",
     "lemmyverse": "Lemmyverso",
     "censorship_resistant": "Resistente alla censura",
@@ -120,5 +120,16 @@
     "cli": "CLI",
     "based_on_salary": "Basato sullo stipendio medio di uno sviluppatore software europeo di €{{formattedCount}} da developersalary.com",
     "monthly_active_users": "{{formattedCount}} utenti attivi (utenti che hanno postato o commentato nell'ultimo mese)",
-    "requires_application": "Richiede Domanda di Registrazione"
+    "requires_application": "Richiede Domanda di Registrazione",
+    "explore": "Esplora",
+    "moderation_tools": "Strumenti di moderazione",
+    "support_on_liberapay": "Liberapay",
+    "desktop": "Scrivania",
+    "support_on_ko_fi": "Ko-fi",
+    "percent_funded": "{{formattedCount}}% finanziato",
+    "preferred": "Preferiti",
+    "donate_subtitle": "Supporta lo sviluppo di Lemmy",
+    "support_on_opencollective": "OpenCollective",
+    "support_with_crypto": "Crypto",
+    "support_on_patreon": "Patreon"
 }
