@@ -120,7 +120,7 @@
     "technology": "Τεχνολογία",
     "gaming": "Παιχνίδια",
     "instance_disclaimer": "Μπορείτε να έχετε πρόσβαση σε όλο το περιεχόμενο του lemmyverse από οποιονδήποτε διακομιστή, οπότε δεν έχει σημασία ποιον θα επιλέξετε.",
-    "based_on_salary": "Με βάση έναν μέσο ευρωπαϊκό μισθό €{{formattedCount}} ενός προγραμματιστή λογισμικού από το developersalary.com",
+    "based_on_salary": "Με βάση έναν μέσο ευρωπαϊκό μισθό €{{formattedCount}} ενός προγραμματιστή λογισμικού",
     "monthly_active_users": "{{formattedCount}} ενεργοί χρήστες (χρήστες που έχουν δημοσιεύσει ή σχολιάσει τον τελευταίο μήνα)",
     "moderation_tools": "Εργαλεία Συντονισμού",
     "explore": "Εξερευνήστε",
@@ -128,5 +128,8 @@
     "support_on_opencollective": "OpenCollective",
     "donate_subtitle": "Υποστηρίξτε την ανάπτυξη του Lemmy",
     "support_on_liberapay": "Liberapay",
-    "support_with_crypto": "Crypto"
+    "support_with_crypto": "Crypto",
+    "percent_funded": "{{formattedCount}}% χρηματοδοτήθηκε",
+    "preferred": "Προτιμώμενο",
+    "support_on_ko_fi": "Ko-fi"
 }
