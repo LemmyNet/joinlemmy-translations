@@ -130,5 +130,7 @@
     "percent_funded": "{{formattedCount}} % financiado",
     "support_on_liberapay": "Liberapay",
     "donate_subtitle": "Apoya el desarrollo de Lemmy",
-    "support_with_crypto": "Cripto"
+    "support_with_crypto": "Cripto",
+    "desktop": "Ordenador",
+    "donate_desc": "Un proyecto de código abierto del tamaño de Lemmy requiere un trabajo constante, tanto para administrar el proyecto, implementar nuevas funcionalidades y arreglar errores. Dessalines y Nutomic trabajan a tiempo completo en estas tareas y más. Como no hay publicidad ni rastreo, todo nuestro trabajo se financia con donaciones. Aun así, apenas hay tiempo suficiente en el día, y no queda tiempo para un segundo trabajo. La única opción disponible son las donaciones de los usuarios. Para mantenerlo de forma viable las donaciones deben alcanzar un mínimo de 5000 € al mes, lo que da un modesta salario de 2500 € por desarrollador. Si se alcanza ese objetivo, podemos dejar de preocuparnos por el dinero y centrarnos totalmente en mejorar los programas para el beneficio de todos los usuarios y nodos."
 }
