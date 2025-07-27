@@ -112,9 +112,19 @@
     "contact_us": "Ta kontakt med <1>oss</1>",
     "instance_disclaimer": "Du kan få tilgang til alt innhaldet i «lemmyverset» frå alle tenarar/instansar, så det er ikkje så nøye kven du vel.",
     "servers": "Tenarar",
-    "based_on_salary": "Basert på medianlønn for programvare­utviklarar i Europa (€ {{formattedCount}}), henta frå developersalary.com.",
+    "based_on_salary": "Basert på medianlønn for programvare­utviklarar i Europa (€ {{formattedCount}})",
     "total_comments": "I alt {{formattedCount}} kommentarar",
     "total_users": "I alt {{formattedCount}} brukarar",
     "monthly_active_users": "{{formattedCount}} aktive brukarar (brukarar med innlegg eller kommentarar siste månad)",
-    "explore": "Utforsk"
+    "explore": "Utforsk",
+    "support_on_liberapay": "Liberapay",
+    "donate_desc": "Eit fri programvare-prosjekt så stort som Lemmy krev stadig arbeid med prosjekt­styring, implementering av ny funksjonalitet og retting av feil. Dessalines og Nutomic arbeidar på fulltid med blant anna dette. Sidan Lemmy verken har reklame eller brukar­sporing, vert alt arbeidet finansiert av frivillige penge­gåver. Likevel er det knapt med tid til utvikling, og ikkje tid for utviklarane til å ta ein ekstrajobb for å spe på inntektene. Den einaste løysinga er penge­gåver frå brukarane. For at prosjektet skal vera berekraftig, treng me minst € 5000 i månaden, noko som gjev ei beskjeden månads­lønn på € 2500 til kvar utviklar. Viss me når det målet, treng me ikkje uroa oss for pengar og kan fokusera fullt og heilt på å forbetra programvara for alle brukarane og instansane. Me er avhengige av faste gjevarar for å sikra utvikling av Lemmy på lang sikt, og til å gjera Lemmy-programvara så god som mogleg.<br/><br/>Er du ikkje overtydd, tenk på Reddit. Det starta som ei oppstarts­bedrift finanisert av rike investorar. Nettstaden vert no styrt av leiarar som er meir og meir fråkopla vanlege brukarar. Hovudmålet er å tena pengar og gje avkastning til investorane. Dette fører til fleire avgjerder til skade for brukarane. For eksempel har leiarane gjeve sparken til tilsette som var ansvarlege for AMA-diskusjonar og har blokkkert tilgang frå tredjeparts­appar. Sidan Reddit er éin nettstad, styrt av éi verksemd, må alle følgja same reglar – òg latterlege reglar, som sensur av namnet «Luigi».<br/><br/>Lemmy representerer ein ny type sosialt medium, som er heilt annleis enn Reddit. Det er delt opp i mange ulike nettstadar, kvar med sine eigne reglar, og styrt av vanlege folk som faktisk bryr seg om brukarane sine. Det er ikkje noko bedrift bak som skal tena pengar. Mykje av arbeidet vert gjort av frivillige administratorar, moderatorar og brukarar, som har entusiasme og ikkje pengar som motivasjon. For oss brukarar er dette bra, då me slepp reklame og brukar­sporing, og plattforma kan ikkje takast over av ein einskild billionær. Det finst heller ikkje innebygde politiske eller ideologiske avgrensingar. Du kan bruka programvara til kva du ønskjer, velja eventuelle avgrensingar sjølv eller granska korleis programvara fungerer. Lemmy tilhøyrer oss alle.<br/><br/>Nutomic og Dessalines, Lemmy-utviklarar",
+    "support_on_ko_fi": "Ko-fi",
+    "percent_funded": "{{formattedCount}} % finansiert",
+    "desktop": "Skrivebord",
+    "preferred": "Føretrekt",
+    "support_on_patreon": "Patreon",
+    "support_on_opencollective": "Open Collective",
+    "donate_subtitle": "Støtt utviklinga av Lemmy",
+    "support_with_crypto": "Krypto"
 }
