@@ -71,7 +71,7 @@
     "read_more": "Lue lisää",
     "see_all_servers": "Katso kaikki palvelimet",
     "none_found": "Yhtäkään ei löytynyt.",
-    "lemmyverse": "Lemmyverse",
+    "lemmyverse": "Lemmyversumi",
     "copyright_line": "Lemmy on lisensoitu GNU Affero General Public License v3.0:n ehdoin",
     "censorship_resistant": "Vastustuskykyinen sensuurille",
     "censorship_resistant_desc": "Ylläpitämällä omaa palvelintasi voit hallita täysin sen sisältöä.",
@@ -118,5 +118,13 @@
     "total_users": "{{formattedCount}} käyttäjää yhteensä",
     "monthly_active_users": "{{formattedCount}} aktiivista käyttäjää (jotka ovat lähettäneet viestin tai kommentin viimeisen kuukauden aikana)",
     "requires_application": "Vaatii rekisteröitymishakemuksen",
-    "instance_comparison": "Tarkempi vertailu eri Lemmy-palvelinten välillä"
+    "instance_comparison": "Tarkempi vertailu eri Lemmy-palvelinten välillä",
+    "instance_browser": "Kun luot tilin, voit löytää yhteisöjä kaikilta instansseilta käyttämällä",
+    "explore": "Tutki",
+    "moderation_tools": "Valvonnan työkalut",
+    "desktop": "Työpöytä",
+    "percent_funded": "{{formattedCount}}% rahoitettu",
+    "preferred": "Suositut",
+    "donate_subtitle": "Tue Lemmyn kehitystä",
+    "based_on_salary": "Perustuen keskimääräiseen eurooppalaiseen €{{formattedCount}} ohjelmistokehittäjän palkkaan"
 }
