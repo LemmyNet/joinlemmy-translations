@@ -114,5 +114,6 @@
   "requires_application": "Requires Registration Application",
   "read_more": "Read more",
   "explore": "Explore",
-  "preferred": "Preferred"
+  "preferred": "Preferred",
+  "visit_random_instance": "Visit a random Instance"
 }
