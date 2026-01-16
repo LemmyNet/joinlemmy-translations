@@ -1,7 +1,7 @@
 {
   "lemmy_title": "Lemmy - A forum and link aggregator for the fediverse",
   "join_a_server": "Join a Server",
-  "see_all_servers": "See All Servers",
+  "see_all_servers": "Browse All Servers",
   "none_found": "None found.",
   "join": "Join",
   "sign_up": "Sign Up",
@@ -92,7 +92,7 @@
   "lemmy_servers": "Lemmy <1>Servers</1>",
   "browse_instance": "Browse",
   "donate_title": "Lemmy - Donate",
-  "instance_disclaimer": "You can access all content in the lemmyverse from any server, so it doesn't matter which one you choose.",
+  "instance_disclaimer": "The Lemmy network consists of many different websites. To use it, you need to choose one from the list below. Don't overthink it, you can access most content in the Lemmyverse from any server. Later you can also migrate your account to a different Lemmy server.",
   "active_users": "Active Users",
   "servers": "Servers",
   "instance_comparison": "For a more detailed comparison of Lemmy servers, see",
@@ -116,5 +116,5 @@
   "read_more": "Read more",
   "explore": "Explore",
   "preferred": "Preferred",
-  "visit_random_instance": "Visit a random Instance"
+  "join_instance": "Join {{domain}}"
 }
