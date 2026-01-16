@@ -2,7 +2,6 @@
   "lemmy_title": "Lemmy - A forum and link aggregator for the fediverse",
   "join_a_server": "Join a Server",
   "see_all_servers": "See All Servers",
-  "none_found": "None found.",
   "join": "Join",
   "sign_up": "Sign Up",
   "run_a_server": "Run a Server",
@@ -41,6 +40,7 @@
   "all_languages": "All languages",
   "all_topics": "All topics",
   "all_platforms": "All platforms",
+  "all_countries": "All countries",
   "ios": "iOS",
   "android": "Android",
   "web": "Web",
@@ -107,7 +107,6 @@
   "percent_funded": "{{formattedCount}}% funded",
   "based_on_salary": "Based on a median European €{{formattedCount}} software developer salary",
   "total_comments": "{{formattedCount}} total comments",
-  "total_users": "{{formattedCount}} total users",
   "monthly_active_users": "{{formattedCount}} active users (users who have posted or commented in the last month)",
   "closed_source_warning": "Warning: this app is closed source, and may collect your data. Use at your own risk.",
   "registrations_open": "Registrations Open",
@@ -116,5 +115,6 @@
   "read_more": "Read more",
   "explore": "Explore",
   "preferred": "Preferred",
-  "visit_random_instance": "Visit a random Instance"
+  "country_select": "Country",
+  "country_unknown": "Unknown"
 }
