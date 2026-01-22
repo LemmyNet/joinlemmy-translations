@@ -116,8 +116,7 @@
   "feature_decentralized_selfhosted_title": "Decentralized and Selfhosted",
   "feature_decentralized_selfhosted_desc": "The Lemmyverse consists of hundreds of interconnected servers operated by different people. You can also run Lemmy on your own server, using easy installation methods via Ansible or Docker. Resource usage is very low thanks to Rust, so it can run on a small Raspberry Pi or alongside other services.",
   "button_create_server": "Create a Server",
-"feature_open_source_title":  "Open Source",
-"feature_open_source_desc": "Lemmy is entirely open source. You can follow the development process and make suggestions for new features. You can also fork the code and implement new changes yourself.",
-"button_source_code": "Source Code"
-
+  "feature_open_source_title": "Open Source",
+  "feature_open_source_desc": "Lemmy is entirely open source. You can follow the development process and make suggestions for new features. You can also fork the code and implement new changes yourself.",
+  "button_source_code": "Source Code"
 }
