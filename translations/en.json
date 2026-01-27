@@ -118,5 +118,6 @@
   "button_create_server": "Create a Server",
   "feature_open_source_title": "Open Source",
   "feature_open_source_desc": "Lemmy is entirely open source. You can follow the development process and make suggestions for new features. You can also fork the code and implement new changes yourself.",
-  "button_source_code": "Source Code"
+  "button_source_code": "Source Code",
+  "regional": "Regional"
 }
