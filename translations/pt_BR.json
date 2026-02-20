@@ -1,9 +1,9 @@
 {
-    "lemmy_title": "Lemmy - Um agregador de links para o fediverso",
+    "lemmy_title": "Lemmy - Um fórum e agregador de links para o fediverso",
     "join_a_server": "Juntar-se a um Servidor",
     "run_a_server": "Criar um Servidor",
     "lemmy": "Lemmy",
-    "lemmy_desc": "Um agregador de links para o fediverso.",
+    "lemmy_desc": "Um fórum e agregador de links para o fediverso.",
     "follow_communities": "Siga comunidades de <1>qualquer lugar</1> do mundo",
     "open_source": "Código Aberto",
     "open_source_desc": "Lemmy é e sempre será um software livre e de <1>código aberto</1>, usando a forte licença <2>copyleft</2> <3>AGPL</3>.",
@@ -121,5 +121,6 @@
     "total_users": "{{formattedCount}} total de usuários",
     "registrations_closed": "Cadastro Fechado",
     "requires_application": "Requer Cadastro em Aplicativo",
-    "moderation_tools": "Ferramentas de moderação"
+    "moderation_tools": "Ferramentas de moderação",
+    "donate_subtitle": "Apoiar o desenvolvimento do Lemmy"
 }
