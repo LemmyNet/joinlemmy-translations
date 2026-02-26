@@ -118,5 +118,9 @@
   "feature_open_source_title": "Open Source",
   "feature_open_source_desc": "Lemmy is entirely open source. You can follow the development process and make suggestions for new features. You can also fork the code and implement new changes yourself.",
   "button_source_code": "Source Code",
-  "regional": "Regional"
+  "regional": "Regional",
+  "show_nsfw": "Show NSFW",
+  "show_nsfw_confirm": "Please confirm that you are 18 years or older.",
+  "cancel": "Cancel",
+  "confirm": "Confirm"
 }
