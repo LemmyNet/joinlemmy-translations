@@ -137,5 +137,9 @@
     "feature_open_source_title": "開放原始碼",
     "feature_open_source_desc": "Lemmy 完全開源。您可以關注開發過程並提出新功能建議。您也可以分支程式碼並自行實現新的變更。",
     "button_source_code": "原始碼",
-    "regional": "區域"
+    "regional": "區域",
+    "show_nsfw": "顯示工作場所不宜的內容",
+    "show_nsfw_confirm": "請確認您已年滿18歲。",
+    "cancel": "取消",
+    "confirm": "確認"
 }
