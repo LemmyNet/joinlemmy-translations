@@ -122,5 +122,6 @@
   "show_nsfw": "Show NSFW",
   "show_nsfw_confirm": "Please confirm that you are 18 years or older.",
   "cancel": "Cancel",
-  "confirm": "Confirm"
+  "confirm": "Confirm",
+  "loading": "Loading"
 }
