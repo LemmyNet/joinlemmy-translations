@@ -120,5 +120,6 @@
   "cancel": "Cancel",
   "confirm": "Confirm",
   "all": "All",
-  "platform": "Platform"
+  "platform": "Platform",
+  "loading": "Loading"
 }
