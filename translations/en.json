@@ -25,10 +25,6 @@
   "integrated_image_uploading": "Integrated image uploading in both posts and comments.",
   "notifications_including": "Notifications, including via email.",
   "i18n_support": "<1>i18n / internationalization support for > 30 languages.</1>",
-  "all_languages": "All languages",
-  "all_topics": "All topics",
-  "all_platforms": "All platforms",
-  "all_locations": "All Locations",
   "ios": "iOS",
   "android": "Android",
   "web": "Web",
@@ -36,7 +32,7 @@
   "desktop": "Desktop",
   "topic": "Topic",
   "interests": "Interests",
-  "languages": "Languages",
+  "language": "Language",
   "sort": "Sort",
   "what_topic": "What topic are you most interested in?",
   "what_language": "What language do you speak?",
@@ -123,5 +119,7 @@
   "show_nsfw_confirm": "Please confirm that you are 18 years or older.",
   "cancel": "Cancel",
   "confirm": "Confirm",
+  "all": "All",
+  "platform": "Platform",
   "loading": "Loading"
 }
