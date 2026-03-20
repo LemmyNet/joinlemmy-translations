@@ -141,5 +141,9 @@
     "show_nsfw": "顯示工作場所不宜的內容",
     "show_nsfw_confirm": "請確認您已年滿18歲。",
     "cancel": "取消",
-    "confirm": "確認"
+    "confirm": "確認",
+    "language": "語言",
+    "all": "全部",
+    "platform": "平台",
+    "loading": "載入中"
 }
