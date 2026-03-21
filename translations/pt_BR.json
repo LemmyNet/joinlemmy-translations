@@ -133,5 +133,7 @@
     "percent_funded": "{{formattedCount}}% financiado",
     "language": "Idioma",
     "support_with_crypto": "Criptomoeda",
-    "sign_up": "Inscrever-se"
+    "sign_up": "Inscrever-se",
+    "preferred": "Preferido",
+    "join_instance": "Junte-se à {{domain}}"
 }
