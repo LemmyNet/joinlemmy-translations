@@ -135,5 +135,19 @@
     "support_with_crypto": "Criptomoeda",
     "sign_up": "Inscrever-se",
     "preferred": "Preferido",
-    "join_instance": "Junte-se à {{domain}}"
+    "join_instance": "Junte-se à {{domain}}",
+    "hosted_in_select": "Hospedado em",
+    "hosted_in_unknown": "Desconhecido",
+    "button_getting_started": "Começando",
+    "feature_apps_title": "Vários Aplicativos diferentes",
+    "feature_decentralized_selfhosted_title": "Descentralizado e Auto-hospedado",
+    "button_create_server": "Crie um Servidor",
+    "feature_open_source_title": "Código Aberto",
+    "regional": "Regional",
+    "all": "Tudo",
+    "platform": "Plataforma",
+    "button_source_code": "Código Fonte",
+    "loading": "Carregando",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar"
 }
