@@ -149,5 +149,10 @@
     "button_source_code": "Código Fonte",
     "loading": "Carregando",
     "cancel": "Cancelar",
-    "confirm": "Confirmar"
+    "confirm": "Confirmar",
+    "feature_upvotes_threaded_title": "Votos positivos e Comentários Agrupados",
+    "feature_non_commercial_title": "Não Comercial",
+    "feature_upvotes_threaded_desc": "Publicações podem ser curtidas ou não. As mais interessantes aparecem no topo. Você pode escolher entre opções de ordem diferentes. Agrupada permite você a seguir discussões facilmente. Todas as funções importantes do Reddit estão disponíveis.",
+    "feature_apps_desc": "Escolha entre mais de uma dúzia de aplicativos para plataformas e preferências diferentes. Há aplicativos para iOS, Android, Desktop e Web. Desenvolvedores podem criar seus próprios aplicativos e ferramentas utilizando o API aberto.",
+    "show_nsfw_confirm": "Por favor confirme que você tem 18 anos ou mais."
 }
