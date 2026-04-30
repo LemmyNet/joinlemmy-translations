@@ -13,5 +13,6 @@
     "user_tagging": "Lietotāja pieminēšana ar <1>@</1> un kopienas pieminēšana ar <2>!</2> rakstzīmi.",
     "notifications_including": "Paziņojumi, arī pa e-pastu.",
     "join": "Pievienoties",
-    "run_a_server": "Palaist serveri"
+    "run_a_server": "Palaist serveri",
+    "loading": "Ielādē"
 }
