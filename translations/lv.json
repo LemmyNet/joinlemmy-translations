@@ -16,5 +16,9 @@
     "run_a_server": "Palaist serveri",
     "loading": "Ielādē",
     "sort": "Kārtot",
-    "docs": "Dokumentācija"
+    "docs": "Dokumentācija",
+    "cli": "Komandrindas saskarne",
+    "topic": "Temats",
+    "ios": "iOS",
+    "android": "Android"
 }
