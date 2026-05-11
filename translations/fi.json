@@ -126,5 +126,15 @@
     "percent_funded": "{{formattedCount}}% rahoitettu",
     "preferred": "Suositut",
     "donate_subtitle": "Tue Lemmyn kehitystä",
-    "based_on_salary": "Perustuen keskimääräiseen eurooppalaiseen €{{formattedCount}} ohjelmistokehittäjän palkkaan"
+    "based_on_salary": "Perustuen keskimääräiseen eurooppalaiseen €{{formattedCount}} ohjelmistokehittäjän palkkaan",
+    "language": "Kieli",
+    "sign_up": "Rekisteröidy",
+    "join_instance": "Liity instanssille {{domain}}",
+    "hosted_in_unknown": "Tuntematon",
+    "feature_upvotes_threaded_title": "Ylä-äänet ja ketjutetut vastaukset",
+    "feature_upvotes_threaded_desc": "Julkaisuille voi antaa ylä- tai alaääniä. Kiinnostavimmat nousevat ylös. Voit valita eri lajittelutapohjen väliltä. Ketjutetun lajittelun avulla voit seurata keskusteluja helposti. Kaikki Redditin tärkeimmät toiminnot ovat saatavilla.",
+    "button_getting_started": "Näin pääset alkuun",
+    "feature_apps_title": "Useita erilaisia sovelluksia",
+    "feature_apps_desc": "Valitse ties kuinka monen sovelluksen väliltä alustan tai omien mieltymysten mukaan. Sovelluksia on saatavilla iOS:ille, Androidille, työpöydälle ja webiin. Kehittäjät voivat luoda omia sovelluksiaan ja työkalujaan käyttämällä avointa sovellusrajapintaa.",
+    "feature_non_commercial_title": "Ei-kaupallinen"
 }
