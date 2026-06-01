@@ -2,7 +2,6 @@
     "donate": "Doniraj",
     "lemmy_title": "Lemmy - forum i agregator linkova za Fediverse",
     "sign_up": "Registrujte se",
-    "all_locations": "Sve lokacije",
     "support_on_liberapay": "Liberapay",
     "join_instance": "Pridružite se {{domain}}",
     "hosted_in_select": "Hostovano u",
@@ -44,9 +43,6 @@
     "integrated_image_uploading": "Integrisano učitavanje slika u objavama i komentarima.",
     "notifications_including": "Obavještenja, uključujući i e-poštu.",
     "i18n_support": "<1>Podrška za i18n / internacionalizaciju na više od 30 jezika.</1>",
-    "all_languages": "Svi jezici",
-    "all_topics": "Sve teme",
-    "all_platforms": "Sve platforme",
     "ios": "iOS",
     "android": "Android",
     "web": "Web",
@@ -54,7 +50,6 @@
     "desktop": "Desktop",
     "topic": "Tema",
     "interests": "Interesovanja",
-    "languages": "Jezici",
     "sort": "Sortiraj",
     "what_topic": "Koja tema vas najviše zanima?",
     "what_language": "Koji jezik govorite?",
@@ -118,5 +113,10 @@
     "read_more": "Pročitaj više",
     "explore": "Istraži",
     "preferred": "Preferirano",
-    "feature_upvotes_threaded_desc": "Objave se mogu odobravati ili odbijati. Najzanimljivije se pojavljuju na vrhu. Možete birati između različitih opcija sortiranja. Diskusije u nitima su vam dostupne. Dostupne su sve važne funkcije Reddita."
+    "feature_upvotes_threaded_desc": "Objave se mogu odobravati ili odbijati. Najzanimljivije se pojavljuju na vrhu. Možete birati između različitih opcija sortiranja. Diskusije u nitima su vam dostupne. Dostupne su sve važne funkcije Reddita.",
+    "language": "Jezik",
+    "all": "Sve",
+    "loading": "Učitavanje",
+    "show_nsfw": "Prikaži NSFW (osjetljiv sadržaj)",
+    "cancel": "Otkaži"
 }
