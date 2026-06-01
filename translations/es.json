@@ -101,5 +101,6 @@
     "all": "Todos",
     "loading": "Cargando",
     "sign_up": "Crear cuenta",
-    "show_nsfw": "Mostrar NSFW"
+    "show_nsfw": "Mostrar NSFW",
+    "button_source_code": "Código Fuente"
 }
