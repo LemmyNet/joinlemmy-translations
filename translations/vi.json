@@ -1,7 +1,13 @@
 {
-  "docs": "Tài liệu",
-  "contact": "Liên hệ",
-  "join": "Tham gia",
-  "about": "Giới thiệu",
-  "apply_to_join": "Xin tham gia"
+    "docs": "Tài liệu",
+    "contact": "Liên hệ",
+    "join": "Tham gia",
+    "all": "Toàn bộ",
+    "apps": "Ứng dụng",
+    "sponsors": "Tài trợ",
+    "sign_up": "Đăng ký",
+    "ios": "iOS",
+    "android": "Android",
+    "cli": "CLI",
+    "cancel": "Hủy bỏ"
 }
