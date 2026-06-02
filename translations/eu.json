@@ -88,5 +88,8 @@
     "all": "Guztiak",
     "loading": "Igotzen",
     "sign_up": "Eman izena",
-    "cancel": "Ezeztatu"
+    "cancel": "Ezeztatu",
+    "language": "Hizkuntza",
+    "feature_open_source_title": "Kode irekia",
+    "support_with_crypto": "Kriptomonetak"
 }
