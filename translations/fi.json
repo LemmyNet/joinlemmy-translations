@@ -54,7 +54,7 @@
     "topic": "Aihe",
     "random": "Satunnainen",
     "interests": "Mielenkiinnon kohteet",
-    "sort": "Järjestys",
+    "sort": "Lajittele",
     "what_topic": "Mistä aiheista olet kiinnostunut?",
     "what_language": "Mitä kieliä osaat?",
     "general": "Yleinen",
@@ -106,5 +106,6 @@
     "cancel": "Peru",
     "support_with_crypto": "Kryptovaluutta",
     "feature_non_commercial_desc": "Lemmya ei hallitse yksikään yritys. Tässä ei ole tuottotavoitetta, mainoksia eikä käyttäjien seurantaa. Valvojien toiminta on läpinäkyvää ja on tarkasteltavissa valvonnan lokin kautta. Kehitystyö tapahtuu avoimesti, ja on rahoitettu pelkästään lahjoituksilla.",
-    "feature_decentralized_selfhosted_title": "Hajautettu ja itse ylläpidetty"
+    "feature_decentralized_selfhosted_title": "Hajautettu ja itse ylläpidetty",
+    "feature_decentralized_selfhosted_desc": "Lemmyversumi koostuu sadoista toisiinsa kytkeytyvistä palvelimista, joita ylläpitävät eri henkilöt. Voit myös käyttää Lemmyä omalla palvelimellasi hyödyntämällä helppoja asennusmenetelmiä Ansiblen tai Dockerin avulla. Kiitos Rustin, resurssien käytttö on erittäin vähäistä, joten se voi toimia pienellä Raspberry Pilla tai muiden palveluiden rinnalla."
 }
