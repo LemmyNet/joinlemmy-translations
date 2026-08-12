@@ -103,5 +103,19 @@
     "sign_up": "Kayıt Ol",
     "button_source_code": "Kaynak kodu",
     "show_nsfw": "NSFW (Hassas İçerik) göster",
-    "cancel": "İptal"
+    "cancel": "İptal",
+    "hosted_in_select": "Barındırıldığı yer",
+    "hosted_in_unknown": "Bilinmiyor",
+    "feature_upvotes_threaded_title": "Oylar ve İç İçe Yorumlar",
+    "feature_upvotes_threaded_desc": "Gönderilere olumlu veya olumsuz oy verebilirsiniz. En ilgi çekiciler üste çıkar. Farklı sıralama seçenekleri arasından dilediğinizi seçebilirsiniz. İç içe yorumlar sayesinde tartışmaları kolayca takip edebilirsiniz. Reddit'teki tüm önemli özellikler mevcuttur.",
+    "button_getting_started": "Başlarken",
+    "feature_apps_title": "Pek Çok Farklı Uygulama",
+    "feature_apps_desc": "Farklı platformlar ve tercihler için düzinelerce uygulama arasından seçim yapabilirsiniz. iOS, Android, masaüstü ve web için uygulamalar mevcuttur. Geliştiriciler açık API sayesinde kendi uygulamalarını ve araçlarını oluşturabilir.",
+    "feature_non_commercial_title": "Ticari Amaç Taşımıyor",
+    "feature_non_commercial_desc": "Lemmy herhangi bir şirketin kontrolünde değildir. Kâr amacı, reklam veya kullanıcı takibi yoktur. Moderasyon işlemleri şeffaftır ve mod günlüğünden görüntülenebilir. Geliştirme süreci tamamen açık yürütülür ve yalnızca bağışlarla finanse edilir.",
+    "feature_decentralized_selfhosted_title": "Merkezi Olmayan ve Kendi Sunucunda Barındırılabilir",
+    "feature_decentralized_selfhosted_desc": "Lemmyverse, farklı kişiler tarafından işletilen yüzlerce birbirine bağlı sunucudan oluşur. Ansible veya Docker aracılığıyla kolay kurulum yöntemleri kullanarak Lemmy'yi kendi sunucunuzda da çalıştırabilirsiniz. Rust sayesinde kaynak kullanımı çok düşüktür; küçük bir Raspberry Pi üzerinde veya diğer hizmetlerle birlikte çalışabilir.",
+    "button_create_server": "Sunucu Oluştur",
+    "feature_open_source_desc": "Lemmy tamamen açık kaynaklıdır. Geliştirme sürecini takip edebilir ve yeni özellikler için öneride bulunabilirsiniz. Ayrıca kodu çatallayarak kendi değişikliklerinizi kendiniz uygulayabilirsiniz.",
+    "regional": "Bölgesel"
 }
