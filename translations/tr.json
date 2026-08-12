@@ -117,5 +117,9 @@
     "feature_decentralized_selfhosted_desc": "Lemmyverse, farklı kişiler tarafından işletilen yüzlerce birbirine bağlı sunucudan oluşur. Ansible veya Docker aracılığıyla kolay kurulum yöntemleri kullanarak Lemmy'yi kendi sunucunuzda da çalıştırabilirsiniz. Rust sayesinde kaynak kullanımı çok düşüktür; küçük bir Raspberry Pi üzerinde veya diğer hizmetlerle birlikte çalışabilir.",
     "button_create_server": "Sunucu Oluştur",
     "feature_open_source_desc": "Lemmy tamamen açık kaynaklıdır. Geliştirme sürecini takip edebilir ve yeni özellikler için öneride bulunabilirsiniz. Ayrıca kodu çatallayarak kendi değişikliklerinizi kendiniz uygulayabilirsiniz.",
-    "regional": "Bölgesel"
+    "regional": "Bölgesel",
+    "join_instance": "{{domain}} sunucusuna katıl",
+    "show_nsfw_confirm": "18 yaşında veya daha büyük olduğunuzu onaylayın.",
+    "platform": "Platform",
+    "confirm": "Onayla"
 }
