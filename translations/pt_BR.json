@@ -96,7 +96,7 @@
     "percent_funded": "{{formattedCount}}% financiado",
     "language": "Idioma",
     "support_with_crypto": "Criptomoeda",
-    "sign_up": "Inscrever-se",
+    "sign_up": "Cadastrar-se",
     "preferred": "Preferido",
     "join_instance": "Junte-se à {{domain}}",
     "hosted_in_select": "Hospedado em",
@@ -117,5 +117,8 @@
     "feature_non_commercial_title": "Não Comercial",
     "feature_upvotes_threaded_desc": "Publicações podem ser curtidas ou não. As mais interessantes aparecem no topo. Você pode escolher entre opções de ordem diferentes. Agrupada permite você a seguir discussões facilmente. Todas as funções importantes do Reddit estão disponíveis.",
     "feature_apps_desc": "Escolha entre mais de uma dúzia de aplicativos para plataformas e preferências diferentes. Há aplicativos para iOS, Android, Desktop e Web. Desenvolvedores podem criar seus próprios aplicativos e ferramentas utilizando o API aberto.",
-    "show_nsfw_confirm": "Por favor confirme que você tem 18 anos ou mais."
+    "show_nsfw_confirm": "Por favor confirme que você tem 18 anos ou mais.",
+    "feature_non_commercial_desc": "O Lemmy não é controlado por nenhuma empresa. Não há fins lucrativos, nem publicidade, nem rastreamento de usuários. As ações de moderação são transparentes e podem ser consultadas no registro de moderação. O desenvolvimento é totalmente aberto e financiado exclusivamente por doações.",
+    "feature_decentralized_selfhosted_desc": "O Lemmyverso é composto por centenas de servidores interconectados, operados por diferentes pessoas. Você também pode rodar o Lemmy em seu próprio servidor, utilizando métodos de instalação fáceis por meio do Ansible ou do Docker. O consumo de recursos é muito baixo graças à linguagem Rust, por isso ele pode ser executado em um pequeno Raspberry Pi ou em conjunto com outros serviços.",
+    "feature_open_source_desc": "O Lemmy é totalmente de código aberto. Você pode acompanhar o processo de desenvolvimento e sugerir novos recursos. Também é possível criar um fork do código e implementar novas alterações por conta própria."
 }
