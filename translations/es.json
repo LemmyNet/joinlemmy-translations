@@ -1,7 +1,7 @@
 {
     "run_a_server": "Crea un servidor",
     "lemmy": "Lemmy",
-    "lemmy_desc": "Un agregador de enlaces para el fediverso.",
+    "lemmy_desc": "Una plataforma de discusiones descentralizada para comunidades.",
     "mod_tools_desc": "Cada servidor puede establecer su propia política de moderación, para ayudar a fomentar un entorno saludable en el que todos puedan sentirse cómodos contribuyendo.",
     "live_updates": "Actualizaciones en directo",
     "live_updates_desc": "Los nuevos comentarios y publicaciones llegan a la página principal y a la bandeja de entrada; ya no es necesario actualizar la página.",
@@ -103,5 +103,17 @@
     "sign_up": "Crear cuenta",
     "show_nsfw": "Mostrar NSFW",
     "button_source_code": "Código Fuente",
-    "platform": "Plataforma"
+    "platform": "Plataforma",
+    "feature_non_commercial_title": "No comercial",
+    "feature_decentralized_selfhosted_title": "Descentralizado y autoalojado",
+    "button_create_server": "Crear un servidor",
+    "regional": "Regional",
+    "show_nsfw_confirm": "Por favor, confirma que tienes 18 años o más.",
+    "confirm": "Confirmar",
+    "preferred": "Preferido",
+    "join_instance": "Unirse a {{domain}}",
+    "hosted_in_select": "Alojado en",
+    "hosted_in_unknown": "Desconocido",
+    "button_getting_started": "Comenzar",
+    "feature_apps_title": "Muchas aplicaciones diferentes"
 }
