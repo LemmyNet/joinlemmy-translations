@@ -44,7 +44,7 @@
     "instance_comparison": "Para una comparación más detallada de servidores de Lemmy, consulta",
     "browse_instance": "Navegar",
     "read_more": "Leer más",
-    "see_all_servers": "Ver todos los servidores",
+    "see_all_servers": "Explorar todos los servidores",
     "lemmyverse": "Lemmyverso",
     "censorship_resistant_desc": "Si alojas tu propio servidor, puedes tener el control total de tu contenido.",
     "federation_desc": "Los servidores de Lemmy se pueden conectar entre sí en una red de confianza, compartiendo publicaciones, comentarios y comunidades.",
@@ -102,5 +102,6 @@
     "loading": "Cargando",
     "sign_up": "Crear cuenta",
     "show_nsfw": "Mostrar NSFW",
-    "button_source_code": "Código Fuente"
+    "button_source_code": "Código Fuente",
+    "platform": "Plataforma"
 }
