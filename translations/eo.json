@@ -97,5 +97,18 @@
     "loading": "Ŝarĝante",
     "sign_up": "Registriĝi",
     "language": "Lingvo",
-    "feature_open_source_title": "Malfermitkoda"
+    "feature_open_source_title": "Malfermitkoda",
+    "feature_apps_title": "Multaj malsamaj apoj",
+    "button_create_server": "Krei servilon",
+    "button_source_code": "Fontkodo",
+    "show_nsfw_confirm": "Bonvolu konfirmi, ke vi aĝas 18 jarojn aŭ pli.",
+    "confirm": "Konfirmi",
+    "platform": "Platformo",
+    "desktop": "Labortablo",
+    "preferred": "Preferata",
+    "join_instance": "Aliĝi al {{domain}}",
+    "hosted_in_select": "Gastigata en",
+    "hosted_in_unknown": "Nekonata",
+    "button_getting_started": "Komenciĝi",
+    "percent_funded": "{{formattedCount}}% financita"
 }
