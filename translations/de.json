@@ -96,5 +96,6 @@
     "support_on_patreon": "Patreon",
     "support_on_opencollective": "OpenCollective",
     "support_on_ko_fi": "Ko-fi",
-    "percent_funded": "{{formattedCount}}% finanziert"
+    "percent_funded": "{{formattedCount}}% finanziert",
+    "support_with_crypto": "Kryptowährung"
 }
