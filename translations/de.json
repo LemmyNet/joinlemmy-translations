@@ -91,5 +91,10 @@
     "loading": "Wird geladen",
     "sign_up": "Registrieren",
     "show_nsfw": "Zeige NSFW",
-    "cancel": "Abbrechen"
+    "cancel": "Abbrechen",
+    "support_on_liberapay": "Liberapay",
+    "support_on_patreon": "Patreon",
+    "support_on_opencollective": "OpenCollective",
+    "support_on_ko_fi": "Ko-fi",
+    "percent_funded": "{{formattedCount}}% finanziert"
 }
