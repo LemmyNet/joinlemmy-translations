@@ -1,7 +1,7 @@
 {
-    "lemmy_title": "Lemmy - Ein Link Aggregator für das Fediverse",
+    "lemmy_title": "Lemmy - Eine dezentrale Diskussionsplattform für Communities",
     "lemmy": "Lemmy",
-    "lemmy_desc": "Ein Link Aggregator für das Fediverse.",
+    "lemmy_desc": "Eine dezentrale Diskussionsplattform für Communities.",
     "mod_tools_desc": "Jeder Server kann seine eigenen Moderationsregeln festlegen um dabei zu helfen ein gesundes Umfeld, in dem alle sich dabei wohlfühlen können zum Projekt beizutragen, zu fördern.",
     "avatar_support": "Profilbild Unterstützung.",
     "live_updates": "Live-Updates",
