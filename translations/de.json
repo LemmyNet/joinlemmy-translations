@@ -76,7 +76,7 @@
     "servers": "Server",
     "per_month": "{{formattedCount}} / Monat",
     "supporters": "{{formattedCount}} Unterstützer",
-    "based_on_salary": "Basierend auf einem durchschnittlichen europäischen €{{formattedCount}} Softwareentwickler-Gehalt von developersalary.com",
+    "based_on_salary": "Basierend auf einem durchschnittlichen europäischen €{{formattedCount}} Softwareentwickler-Gehalt",
     "monthly_active_users": "{{formattedCount}} aktive Nutzer (Nutzer die im letzten Monat gepostet oder kommentiert haben)",
     "censorship_resistant_desc": "Durch das Hosting deines eigenen Servers hast du die volle Kontrolle über deine Inhalte.",
     "federation_desc": "Lemmy-Server können sich in einem Netz des Vertrauens miteinander verbinden und Beiträge, Kommentare und Gemeinschaften austauschen.",
@@ -97,5 +97,18 @@
     "support_on_opencollective": "OpenCollective",
     "support_on_ko_fi": "Ko-fi",
     "percent_funded": "{{formattedCount}}% finanziert",
-    "support_with_crypto": "Kryptowährung"
+    "support_with_crypto": "Kryptowährung",
+    "desktop": "Desktop",
+    "language": "Sprache",
+    "donate_subtitle": "Unterstütze die Entwicklung von Lemmy",
+    "preferred": "Bevorzugt",
+    "join_instance": "Werde Teil von {{domain}}",
+    "hosted_in_select": "Serverstandort",
+    "hosted_in_unknown": "Unbekannt",
+    "button_getting_started": "Erste Schritte",
+    "feature_apps_title": "Viele unterschiedliche Apps",
+    "feature_non_commercial_title": "Unkommerziell",
+    "feature_open_source_title": "Open Source",
+    "show_nsfw_confirm": "Bitte bestätige, dass du mindestens 18 Jahre alt bist.",
+    "confirm": "Bestätigen"
 }
