@@ -66,5 +66,8 @@
     "all": "همه",
     "loading": "در حال بارگذاری",
     "sign_up": "نام‌نویسی",
-    "cancel": "لغو"
+    "cancel": "لغو",
+    "language": "زبان",
+    "feature_open_source_title": "آزاد و متن‌باز",
+    "support_with_crypto": "رمزارز"
 }
