@@ -16,7 +16,7 @@
     "sponsors": "Sponsoren",
     "join_title": "Lemmy - Server durchstöbern",
     "apps": "Anwendungen",
-    "lemmy_long_desc": "Lemmy ist eine selbstgehostete soziale Link-Aggregations- und Diskussionsplattform. Es ist vollständig kostenlos und offen, und wird von keiner Firma kontrolliert. Das heißt, dass keine Werbung, kein Tracking und keine geheimen Algorithmen verwendet werden. Inhalte sind in Communities organisiert, so dass man einfach interessante Themen verfolgen, und andere ignorieren kann. Durch das Votum der Nutzer werden die interessantesten Inhalte an die Spitze befördert.",
+    "lemmy_long_desc": "Lemmy ist eine Diskussionsplattform, die wirklich frei ist. Nur du bestimmst welchen Communities du beitritts und welche Beiträge du siehst. Du kannst weitreichende Tools zum Blockieren und Filtern nutzen um deinen Feed zu sortieren und zu verwalten. Du hast die Kontrolle, nicht irgendein Konzern. Es gibt kein Tracking, keine Werbung und keine versteckten Algorithmen. Und du kannst die Entwicklung von Lemmy transparent verfolgen oder deine Ideen einfließen lassen.",
     "more_features": "Weitere <1>Funktionen</1>",
     "clean_interface": "Sauberes, responsives Interface.",
     "full_vote_scores": "Alle Votes <1>(+/-)</1> wie beim alten Reddit.",
@@ -71,7 +71,7 @@
     "contact_us": "Kontaktiere <1>Uns</1>",
     "donate_title": "Lemmy - Spenden",
     "total_comments": "{{formattedCount}} Kommentare insgesamt",
-    "instance_disclaimer": "Du kannst auf alle Inhalte im Lemmyverse von jedem Server aus zugreifen, es ist also egal, welchen du wählst.",
+    "instance_disclaimer": "Das Lemmy Netzwerk besteht aus vielen verschiedenen Webseiten. Um mitzumachen, musst du eine der Webseiten aus der nachfolgenden Liste auswählen. Mach dir nicht zu viele Gedanken, du kannst die meisten Inhalte des Lemmyverse von jedem Server aus erreichen. Später kannst du deinen Account auch zu einem anderen Lemmy Server migrieren.",
     "active_users": "Aktive Nutzer",
     "servers": "Server",
     "per_month": "{{formattedCount}} / Monat",
@@ -111,5 +111,9 @@
     "feature_open_source_title": "Open Source",
     "show_nsfw_confirm": "Bitte bestätige, dass du mindestens 18 Jahre alt bist.",
     "confirm": "Bestätigen",
-    "platform": "Betriebssystem"
+    "platform": "Betriebssystem",
+    "feature_upvotes_threaded_title": "Upvotes und Diskussionsstränge",
+    "feature_upvotes_threaded_desc": "Beiträge können positiv (Upvote) oder negativ (Downvote) bewertet werden. Die interessantesten Beiträge werden dadurch als erstes angezeigt, du kannst aber auch andere Sortieroptionen auswählen. Diskussionsstränge (Threads) erleichtern dir das Verfolgen der Diskussionen. Alle wichtigen Funktionen von Reddit sind nutzbar.",
+    "button_create_server": "Starte einen Server",
+    "regional": "Regional"
 }
